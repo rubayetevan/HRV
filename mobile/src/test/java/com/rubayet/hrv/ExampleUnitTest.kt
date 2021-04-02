@@ -1,4 +1,4 @@
-package com.rubayet.myapplication
+package com.rubayet.hrv
 
 import org.junit.Test
 
